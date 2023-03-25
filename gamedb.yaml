@@ -4267,6 +4267,14 @@
   name: Yooka-Laylee
   steam_input: enabled
 
+- id: ce2a78bf70b646e9b9f57c46dac99184
+  platform: epic-store
+  name: Yooka-Laylee
+  status: verified
+  poster: https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/4663bd95f4de11218493533738a71b00.jpg
+  background: https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/561abb177528d5bf95d40838809a7cf6.png
+  logo: https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/3a0f19df72fef0495c54ced664735a7d.png
+
 - id: 404540
   platform: steam
   name: Nex Machina
@@ -4388,5 +4396,12 @@
   platform: steam
   name: Rogue Lords
   compat_tool: GE-Proton7-49
-  
 
+- name: Yoku's Island Express
+  platform: epic-store
+  id: 3acb0920074446e8baaa4c249200d892
+  status: verified
+  compat_tool: GE-Proton7-50
+  background: https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/77b85c0990841f394600a1590e2d931a.jpg
+  logo: https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/ea407c6c8898c300a60b1f84d8f15d80.png
+  poster: https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/124f1ad42351b5f842a608a7f5b1aba8.png
